@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-#ogrenci1 = "Engin"
-#ogrenci2 = "Derin"
-#ogrenci3 = "Salih"
+#ogrenci1 = "Mustafa"
+#ogrenci2 = "Nurdan"
+#ogrenci3 = "Doruk"
 #
 #print(ogrenci1)
 #print(ogrenci2)
